@@ -42,18 +42,19 @@ To evaluate the regression algorithms, standard metrics such as R-Squared (highe
 ## 📊 Results Visualization
 
 **1. Global Vaccination Temporal Waves (EDA)**
+
 <img width="1384" height="584" alt="image" src="https://github.com/user-attachments/assets/594c6eb1-d9a8-42f4-bafa-86adcaaa1f32" />
 
 
 **2. Model Feature Importance**
 
-*(اسکرین‌شات نمودار Feature Importance از PyCaret را اینجا بگذارید)*
-<img width="800" alt="Feature Importance" src="لینک-عکس-شما" />
+<img width="751" height="468" alt="image" src="https://github.com/user-attachments/assets/1961debb-04e2-48fa-b112-90822167ff31" />
+
 
 **3. Interactive Streamlit Dashboard**
 
-*(یک اسکرین‌شات تمیز از محیط داشبورد استریم‌لیت خودتان بگیرید و اینجا قرار دهید)*
-<img width="800" alt="Streamlit UI" src="لینک-عکس-شما" />
+
+
 
 ## 🏆 Final Model Selection & Deployment Strategy
 
