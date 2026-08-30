@@ -1,7 +1,5 @@
 # 💉 Vaccine Administration Forecasting & Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](لینک-سایت-شما-اینجا-قرار-میگیرد)
-
 ## 📖 About
 
 This project demonstrates an end-to-end supervised machine learning workflow and software deployment for predicting the number of daily COVID-19 vaccinations administered across different countries. 
