@@ -66,6 +66,15 @@ The **Extra Trees Regressor** was selected as the final model due to its near-pe
 
 The finalized model was deployed into a production-ready **Streamlit** dashboard, allowing users to select a specific country and date to generate real-time forecasts.
 
+## 💻 How to Run Locally
+
+To explore the model and interact with the dashboard on your own machine, follow these standard deployment steps:
+
+**1. Clone the repository**
+```bash
+git clone [https://github.com/mehdifr24/vaccine-prediction-dashboard.git](https://github.com/mehdifr24/vaccine-prediction-dashboard.git)
+cd vaccine-prediction-dashboard
+
 ## 👨‍💻 Author
 
 **Mehdi Ferdosi**
