@@ -53,6 +53,7 @@ To evaluate the regression algorithms, standard metrics such as R-Squared (highe
 
 **3. Interactive Streamlit Dashboard**
 
+<img width="2229" height="1247" alt="image" src="https://github.com/user-attachments/assets/cf60661f-cc48-43bf-85dd-d4104ab66e1d" />
 
 
 
