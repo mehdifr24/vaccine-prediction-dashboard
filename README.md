@@ -68,7 +68,14 @@ The finalized model was deployed into a production-ready **Streamlit** dashboard
 
 ## 💻 How to Run Locally
 
-To explore the model and interact with the dashboard on your own machine, open your terminal or command prompt and run these commands sequentially:
+**⚠️ Prerequisites**
+Before running the project, please ensure you have the following installed on your system:
+* **Git:** Required to clone the repository.
+* **Python (3.8 or higher):** Required to run the machine learning environment.
+
+**💡 Execution Tip:** If you are using Windows Command Prompt (CMD), please copy and run the commands **line by line** (pressing `Enter` after each) to avoid unexpected execution errors.
+
+To explore the model and interact with the dashboard, open your terminal and run these commands sequentially:
 
 ```bash
 git clone [https://github.com/mehdifr24/vaccine-prediction-dashboard.git](https://github.com/mehdifr24/vaccine-prediction-dashboard.git)
