@@ -68,24 +68,15 @@ The finalized model was deployed into a production-ready **Streamlit** dashboard
 
 ## 💻 How to Run Locally
 
-To explore the model and interact with the dashboard on your own machine, simply open your terminal and run the following commands sequentially:
+To explore the model and interact with the dashboard on your own machine, open your terminal or command prompt and run these commands sequentially:
 
 ```bash
-# 1. Clone the repository and navigate into it
 git clone [https://github.com/mehdifr24/vaccine-prediction-dashboard.git](https://github.com/mehdifr24/vaccine-prediction-dashboard.git)
 cd vaccine-prediction-dashboard
-
-# 2. Create and activate a virtual environment (Windows)
-# (For macOS/Linux, use: source venv/bin/activate)
 python -m venv venv
 venv\Scripts\activate
-
-# 3. Install the required dependencies
 pip install -r requirements.txt
-
-# 4. Launch the Streamlit dashboard
 python -m streamlit run app.py
-
 ```
 
 ## 👨‍💻 Author
